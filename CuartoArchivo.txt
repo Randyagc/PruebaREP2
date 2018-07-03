@@ -1,0 +1,3 @@
+Archivo creado desde el disco D de la portatil en la rama 1, hay que verificar
+que se actuailza en esa Rama Master y luego hacer un merge con lA RAMA Master
+
