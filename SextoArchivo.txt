@@ -1,0 +1,2 @@
+Creacion de este nuevo archivo, el sexto, desde la maquina virtual de la portatuil, y deben estar todos los archivos en el master, luego de un merge
+
