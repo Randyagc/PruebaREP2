@@ -1,0 +1,2 @@
+Archivo creado deade el disco D de la portatil y en la Rama 1, se necesita hacer un merge con master y ver como se actualiza
+
