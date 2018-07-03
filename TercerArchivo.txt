@@ -1,3 +1,4 @@
 Archivo creado desde el disco D de la laptop, todo esta trabajando muy bien
 hasta las pruebas que estoy haciendo 
+Modificacion hecha desde la maquina virtual a este archvio creado deade el Disco D de la portatil
 
